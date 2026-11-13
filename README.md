@@ -17,7 +17,7 @@
 
 - 🎓 Master's student at the **University of Sydney**
 - 🐶 I build tools that help **AI agents make games**
-- 📚 I make **interactive courses** that teach game design
+- 📚 I build general-purpose tools for making **interactive, visual courses**, and use them to teach game design and more
 - 🎮 I care about how games feel to play, and I collect game experiences
 
 ## 🚀 Projects
@@ -29,7 +29,7 @@
 | 🐕 **[Threedog.js](https://github.com/penstic123-code/Threedog.js-Game-Engine)** | A three.js game engine built for AI agents. It handles time, input, assets, saves, physics and world management, and ships tools to run, check and debug a project. On npm as [`threedog`](https://www.npmjs.com/package/threedog). |
 | 🌳 **[Rule-tree](https://github.com/penstic123-code/Rule-tree)** | Keeps an AI coding project's requirements and rules in one tree, so Claude Code and Codex only get the rules for the files they touch. A VS Code extension, in Chinese and English. |
 
-### 📖 Interactive learning
+### 📖 Interactive learning tools and courses
 
 | Project | What it is |
 | --- | --- |
