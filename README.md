@@ -17,8 +17,8 @@
 
 - 🎓 Master's student at the **University of Sydney**
 - 🧭 I define products: who they are for, what problem they solve, how they should feel to use
-- 🎨 I design learning and play experiences, and build them with AI tools
-- 🐶 Projects: AI-ready game tools, interactive courses, game experiences
+- 🎨 I design experiences: learning, play, tools and interaction
+- 🤖 I use AI to turn ideas into working prototypes fast
 
 ## 🚀 Projects
 
