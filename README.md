@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Shidi 👋 很高兴认识你</h1>
 
 <p align="center">
-  <b>🎯 I am open to internship opportunities.</b>
+  <b>🎯 Open to internships: Product · UX · Game Design</b>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 </p>
 
 - 🎓 Master's student at the **University of Sydney**
-- 🐶 I build tools that help **AI agents make games**
-- 📚 I build general-purpose tools for making **interactive, visual courses**, and use them to teach game design and more
-- 🎮 I care about how games feel to play, and I collect game experiences
+- 🧭 I define products: who they are for, what problem they solve, how they should feel to use
+- 🎨 I design learning and play experiences, and build them with AI tools
+- 🐶 Projects: AI-ready game tools, interactive courses, game experiences
 
 ## 🚀 Projects
 
@@ -44,4 +44,4 @@
 
 ## 💬 Contact
 
-Looking for an internship? 📧 Email me at [penstic123@gmail.com](mailto:penstic123@gmail.com).
+Looking for a product, UX or game design intern? 📧 Email me at [penstic123@gmail.com](mailto:penstic123@gmail.com).
