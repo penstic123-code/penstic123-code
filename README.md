@@ -27,4 +27,4 @@
 
 ## Contact
 
-Looking for an internship? Open an issue or message me through my GitHub profile.
+Looking for an internship? Email me at [penstic123@gmail.com](mailto:penstic123@gmail.com).
